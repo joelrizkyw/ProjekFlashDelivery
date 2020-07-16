@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Flash Delivery</string>
+
+    <string name="navigation_drawer_open">Open Navigation Drawer</string>
+    <string name="navigation_drawer_close">Close Navigation Drawer</string>
+
+
+    <string name="title">Selamat Datang !</string>
+
+    <string name="transportasi1">Alat Transportasi</string>
+    <string name="transportasi2">Kami menyediakan layanan pengantaran dengan transportasi berikut :</string>
+
+    <string name="motorcycle">Motorcycle</string>
+    <string name="truck">Truck</string>
+
+    <string name="titleStatus">Status Pengiriman Barang</string>
+
+    <string name="status1">Sedang Dalam Proses</string>
+    <string name="deskripsi1">Tahap 1 : Barang dalam proses packaging dan menunggu penjemputan oleh kendaraan</string>
+
+    <string name="status2">Dalam Pengiriman</string>
+    <string name="deskripsi2">Tahap 2 : Barang telah di terima oleh pengantar dan sedang dalam perjalanan</string>
+
+    <string name="status3">Sudah Sampai</string>
+    <string name="deskripsi3">Tahap 3 : Barang sudah sampai dan telah di terima oleh penerima barang</string>
+
+</resources>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <com.airbnb.lottie.LottieAnimationView
+        android:layout_width="match_parent"
+        android:layout_height="340dp"
+        android:layout_marginTop="100dp"
+        app:lottie_autoPlay="true"
+        app:lottie_fileName="3075-delivery-van.json"
+        app:lottie_loop="true" />
+
+    <androidx.appcompat.widget.AppCompatEditText
+        android:id="@+id/txtKodePengiriman"
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="40dp"
+        android:hint="masukan ID pengiriman"
+        android:textColor="@color/black"
+        android:textSize="20dp"
+        android:inputType="text"
+        android:textStyle="bold"
+        android:maxLength="6"
+        android:textAlignment="center"/>
+
+    <Button
+        android:id="@+id/btnCekStatus"
+        android:layout_width="223dp"
+        android:layout_height="40dp"
+        android:layout_marginLeft="80dp"
+        android:layout_marginTop="20dp"
+        android:text="Search"
+        android:textStyle="bold" />
+
+</LinearLayout>

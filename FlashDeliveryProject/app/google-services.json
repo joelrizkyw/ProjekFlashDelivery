@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "350255811923",
+    "firebase_url": "https://flashdelivery-281914.firebaseio.com",
+    "project_id": "flashdelivery-281914",
+    "storage_bucket": "flashdelivery-281914.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:350255811923:android:97c3a82cb7a36210bc65a6",
+        "android_client_info": {
+          "package_name": "com.example.flashdeliveryproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "350255811923-ip9gn793mkidvkgrcmk6fa198o370di4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.flashdeliveryproject",
+            "certificate_hash": "0a7d952897670e1d29fd405e1c51292b76c00581"
+          }
+        },
+        {
+          "client_id": "350255811923-1n8cbhpso1fsvfclhmlob2faphsemsfu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2fsrNCmw561LIGn6vqMWKYV6ft8jDXjM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "350255811923-1n8cbhpso1fsvfclhmlob2faphsemsfu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
