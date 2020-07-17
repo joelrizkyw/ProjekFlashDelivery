@@ -24,4 +24,6 @@
     <string name="status3">Sudah Sampai</string>
     <string name="deskripsi3">Tahap 3 : Barang sudah sampai dan telah di terima oleh penerima barang</string>
 
+    <string name="title_activity_maps">Lokasi Office</string>
+
 </resources>
